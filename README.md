@@ -3,11 +3,9 @@ BENCHMARKSQL README
 
 CHANGE LOG:
 -----------
+## Version 6.0 hxlong
 
-## Version 6.0 
-
-- support for  Cedar
-
+- support to Cedar0.3(https://github.com/daseECNU/Cedar) 
 Version 5.0 lussman & jannicash:
 --------------------------------------
   +  Upgrade to PostgreSQL 9.3 JDBC 4.1 version 1102 driver
